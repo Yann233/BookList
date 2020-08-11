@@ -1,30 +1,34 @@
 {
-    "chores": [
-      {
-        "id": 1,
-        "title": "Wash Dishes",
-        "priority": "Importanty",
-        "duration": "15min"
-      },
-      {
-        "title": "Laundry",
-        "duration": "45 minutes",
-        "priority": "High",
-        "id": 4
-      },
-      {
-        "title": "Wash Dishes",
-        "duration": "30 Min",
-        "priority": "Low",
-        "id": 5
-      }
-    ],
-    "repos": [
-      {
-        "title": "ABc",
-        "duration": "321",
-        "priority": "def",
-        "id": 9
-      }
-    ]
-  }
+  "books": [
+    {
+      "title": "hello",
+      "author": "JavaScript",
+      "id": 1
+    },
+    {
+      "title": "The Waves",
+      "author": "Virginia Woolf",
+      "id": 2
+    },
+    {
+      "title": "Wizard of Ox",
+      "author": "L. Frank Baum",
+      "id": 3
+    },
+    {
+      "title": "IT",
+      "author": "Jaba",
+      "id": 4
+    },
+    {
+      "title": "IS",
+      "author": "ruby",
+      "id": 5
+    },
+    {
+      "title": "IS",
+      "author": "ruby",
+      "id": 6
+    }
+  ]
+}
